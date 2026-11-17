@@ -1,5 +1,5 @@
 /** Pure budget logic. All money is stored in integer minor units, never floats. */
-export const VERSION = '0.2.0';
+export const VERSION = '0.3.0';
 export const BUDGETS = {personal: 'Lični', shared: 'Zajednički'};
 export const CURRENCIES = ['RSD', 'EUR'];
 export const CATEGORIES = ['Namirnice', 'Računi', 'Stanovanje', 'Prevoz', 'Auto', 'Hrana i piće', 'Kupovina', 'Zdravlje', 'Zabava', 'Putovanja', 'Pretplate', 'Plata', 'Dodatni prihod', 'Ostalo'];
